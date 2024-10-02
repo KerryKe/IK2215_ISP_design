@@ -17,7 +17,7 @@ as110r1eth1    IN A 1.110.0.2
 as110r1eth2    IN A 1.110.2.1
 as110r1eth3    IN A 1.110.3.1
 as110r1dummy0  IN A 1.110.7.0
-as110r2eth0    IN A 2.21.0.2
+as110r2eth0    IN A 2.21.0.1
 as110r2eth1    IN A 1.110.0.1
 as110r2eth2    IN A 1.110.6.1
 as110r2dummy0  IN A 1.110.8.0
