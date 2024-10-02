@@ -1,1 +1,1 @@
-INTERFACES="eth0"
+INTERFACE="eth0"
