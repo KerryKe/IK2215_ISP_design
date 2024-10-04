@@ -34,8 +34,8 @@ $TTL	604800
 2.3.110.1.in-addr.arpa.   IN      PTR     as110r4eth2.isp110.lab.
 0.10.110.1.in-addr.arpa.  IN      PTR    as110r4dummy0.isp110.lab.
 
-2.5.110.1.in-addr.arpa.   IN	  PTR	  as110c1.isp110.lab.
-3.5.110.1.in-addr.arpa.   IN	  PTR	  as110c2.isp110.lab.
+3.5.110.1.in-addr.arpa.   IN	  PTR	  as110c1.isp110.lab.
+2.5.110.1.in-addr.arpa.   IN	  PTR	  as110c2.isp110.lab.
 
 
 110.1.in-addr.arpa.		  IN	  NS	  ns.isp110.lab.
