@@ -29,7 +29,7 @@ as110r3dummy0  IN A 1.110.9.0
 as110r4eth0    IN A 1.110.5.1
 as110r4eth1    IN A 1.110.4.1
 as110r4eth2    IN A 1.110.3.2
-as110r4dummy   IN A 1.110.10.0
+as110r4dummy0  IN A 1.110.10.0
 
 as110c1        IN A 1.110.5.2
 as110c2        IN A 1.110.5.3
